@@ -1,1 +1,1 @@
-Solves for [Advend of Code 2021](https://adventofcode.com/2021)
+Solves for [Advent of Code 2021](https://adventofcode.com/2021)
