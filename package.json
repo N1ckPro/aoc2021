@@ -1,0 +1,13 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021 Solves",
+  "scripts": {
+    "day1": "echo Day 1 && ts-node ./day1/PartOne.ts && ts-node ./day1/PartTwo.ts"
+  },
+  "author": "https://github.com/N1ckPro",
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "ts-node": "^10.4.0"
+  }
+}
