@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Advent of Code 2021 Solves",
   "scripts": {
-    "day1": "echo Day 1 && ts-node ./day1/PartOne.ts && ts-node ./day1/PartTwo.ts"
+    "day1": "echo Day 1 && ts-node ./day1/PartOne.ts && ts-node ./day1/PartTwo.ts",
+    "day2": "echo Day 2 && ts-node ./day2/PartOne.ts && ts-node ./day2/PartTwo.ts"
   },
   "author": "https://github.com/N1ckPro",
   "devDependencies": {
