@@ -8,7 +8,8 @@
     "day3": "echo Day 3 && ts-node ./day3/PartOne.ts && ts-node ./day3/PartTwo.ts",
     "day4": "echo Day 4 && ts-node ./day4/PartOne.ts && ts-node ./day4/PartTwo.ts",
     "day5": "echo Day 5 && ts-node ./day5/PartOne.ts && ts-node ./day5/PartTwo.ts",
-    "day6": "echo Day 6 && ts-node ./day6/PartOne.ts && ts-node ./day6/PartTwo.ts"
+    "day6": "echo Day 6 && ts-node ./day6/PartOne.ts && ts-node ./day6/PartTwo.ts",
+    "day7": "echo Day 7 && ts-node ./day7/PartOne.ts && ts-node ./day7/PartTwo.ts"
   },
   "author": "https://github.com/N1ckPro",
   "devDependencies": {
